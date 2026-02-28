@@ -22,9 +22,9 @@ Custom OBJ/MTL parser, MVP transformation pipeline, multi-light shading, and rea
 Node.js | Express | GCP  
 API aggregation, proxy architecture, pagination optimization, and cloud deployment.
 
-### 🔹 Online Judge Platform
-Vue.js | REST API Integration  
-Distributed evaluation system with asynchronous submission tracking.
+### 🔹 Mochi – Online Judge Platform
+Frontend Lead | Vue.js | REST API Integration  
+Led frontend architecture, asynchronous submission tracking, and API contract integration for a distributed coding evaluation system.
 
 ---
 
