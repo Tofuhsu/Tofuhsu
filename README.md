@@ -1,16 +1,31 @@
 # Hi, I'm Jeff (Hsuan-Fu) Hsu 👋
 
-MSCS student at USC focused on scalable systems, cloud applications, and graphics programming.
+MSCS candidate at USC focused on scalable systems, cloud infrastructure, and graphics programming.
 
-## 💻 Technical Interests
+---
+
+## 💻 Technical Focus
 - Distributed Systems
 - Backend & Cloud Engineering
-- Computer Graphics (OpenGL)
+- Computer Graphics (OpenGL, GLSL)
 - Machine Learning Systems
 
-## 🚀 Featured Projects
-- **3D Rendering Engine** (C++, OpenGL, GLSL)
-- **Full-Stack Cloud Service Explorer** (Node.js, GCP)
-- **Online Judge Platform** (Vue.js, API Integration)
+---
 
-Currently preparing for Software Engineering Internships (Summer 2026).
+## 🚀 Selected Projects
+
+### 🔹 3D Rendering Engine
+C++ | OpenGL | GLSL  
+Custom OBJ/MTL parser, MVP transformation pipeline, multi-light shading, and real-time GPU rendering.
+
+### 🔹 Full-Stack Cloud Service Explorer
+Node.js | Express | GCP  
+API aggregation, proxy architecture, pagination optimization, and cloud deployment.
+
+### 🔹 Online Judge Platform
+Vue.js | REST API Integration  
+Distributed evaluation system with asynchronous submission tracking.
+
+---
+
+📌 Currently preparing for Software Engineering Internships (Summer 2026).
