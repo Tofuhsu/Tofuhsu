@@ -1,54 +1,37 @@
 # Hi, I'm Jeff (Hsuan-Fu) Hsu
 
-I'm an M.S. in Computer Science candidate at the University of Southern California, graduating in **May 2027**. I build backend systems, cloud applications, and distributed software.
+## Software Engineering and Applied AI
 
-- Completed a Summer 2026 Software Engineering internship at Tech-Management Workshop Co., Ltd., where I developed, secured, tested, and deployed a government-system module using .NET 8, ASP.NET Core MVC, Entity Framework Core, and SQL Server.
-- Built the signal-processing and data-preparation pipeline for research accepted by *IEEE Transactions on Human-Machine Systems*.
-- Seeking 2027 new-graduate software engineering roles in the U.S., especially backend, cloud, platform, and distributed systems.
+I'm pursuing an M.S. in Computer Science at the University of Southern California, with graduation expected in May 2027. I build backend services, web applications, and AI tools using **Python**, **C#/.NET**, **TypeScript**, and **C++**.
+
+I'm seeking 2027 new graduate opportunities in software engineering and AI engineering in the United States. My interests include backend platforms, developer tools, cloud infrastructure, and distributed systems.
+
+[Portfolio](https://tofuhsu.github.io/) · [LinkedIn](https://www.linkedin.com/in/hsuan-fu-hsu/) · [Email](mailto:hsuanfu0709@gmail.com)
+
+## How I Work
+
+- I take responsibility for the complete system. During my internship, I independently designed and built a government birth grant application, from frontend review workflows to backend validation and database storage. It passed company acceptance and entered official use.
+- I connect data processing with practical applications. My experience includes preparing research data, evaluating models, and building an LLM agent with tool integration. I have also deployed applications using **Docker** and **Google Cloud Run**.
+- I build verification into development. My projects include authentication, access controls, automated integration tests, and **GitHub Actions** CI. I focus on checking how components work together and understanding failures across the stack.
 
 ## Technical Skills
 
-- **Languages:** C#, C++, Python, JavaScript, SQL
-- **Backend and Web:** .NET 8, ASP.NET Core MVC, Entity Framework Core, Node.js, Express, Flask, Vue.js, REST APIs
-- **Cloud and Data:** Google Cloud Run, Docker, SQL Server, relational database design
-- **Systems and ML:** Git, Linux, OpenGL, GLSL, NumPy, PyTorch, TensorFlow
+| Area | Technologies and practices |
+| --- | --- |
+| Languages | Python, C#, C++, TypeScript, JavaScript, SQL |
+| Backend and web | ASP.NET Core, Entity Framework Core, FastAPI, Vue 3, Node.js, Express, REST APIs |
+| AI applications and data | LangChain, LangGraph, MCP, NumPy, signal processing, feature selection, model evaluation |
+| ML framework familiarity | PyTorch, TensorFlow |
+| Databases | SQL Server, SQLite |
+| Cloud and engineering tools | Docker, Google Cloud Run, GitHub Actions, pytest, xUnit, Git, Linux |
+| Graphics | OpenGL, GLSL, Blender |
 
-## Featured Projects
+## Research Background
 
-### [Art Explorer](https://github.com/Tofuhsu/assignment3-art-explorer)
+At National Taipei University, I built a **Python** pipeline for PPG signal processing and implemented leave one subject out cross validation. Our team's regression model achieved 10.3% mean absolute percentage error. I am a coauthor of a paper accepted for publication in *IEEE Transactions on Human-Machine Systems* in 2026.
 
-`Node.js` · `Express` · `Docker` · `Google Cloud Run`
+## Selected Projects
 
-Built and deployed a cloud application that aggregates the Met Museum, Harvard Art Museums, and Wikipedia APIs, with server-side pagination, interactive maps, artwork details, related works, and persistent favorites.
-
-[Live Demo](https://art-explorer-394763791461.us-central1.run.app/) · [Source Code](https://github.com/Tofuhsu/assignment3-art-explorer)
-
-### [Task Management System](https://github.com/Tofuhsu/task-management-system)
-
-`ASP.NET Core Web API` · `Entity Framework Core` · `SQL Server` · `Vue 3`
-
-Building a full-stack task platform with layered services, RESTful APIs, pagination, filtering, sorting, database migrations, and indexed queries. Authentication, automated testing, containerization, and cloud deployment are in progress.
-
-### [3D Rendering Engine](https://github.com/Tofuhsu/3D-Rendering-Engine)
-
-`C++` · `OpenGL` · `GLSL`
-
-Implemented a custom OBJ/MTL parser, VAO/VBO rendering pipeline, MVP transformations, texture mapping, and multi-light Phong-style shading.
-
-### [Mochi Online Judge Platform](https://github.com/sirubell/mochi)
-
-`Vue.js` · `REST APIs`
-
-Led a four-developer frontend team and implemented asynchronous submission tracking and API contracts for a distributed code-evaluation platform.
-
-## Research
-
-**Accepted for publication in IEEE Transactions on Human-Machine Systems**
-
-“Noninvasive Portable System With Dual Near-Infrared Light Technology for Monitoring Uric Acid Concentration”
-
-Contributed the PPG signal-processing and model-ready data pipeline, including Bessel filtering, signal-quality screening, feature extraction, and leave-one-subject-out cross-validation.
-
-## Connect
-
-[Portfolio](https://tofuhsu.github.io/) · [LinkedIn](https://www.linkedin.com/in/hsuan-fu-hsu/) · [Email](mailto:hsuanfu0709@gmail.com)
+- LLM Agent: **LangChain**, **LangGraph**, and three MCP servers for web search, file operations, and calculation tools; deployed with **FastAPI** on **Google Cloud Run**.
+- [Task Management System](https://github.com/Tofuhsu/task-management-system): **ASP.NET Core** and **Vue 3** application with authentication, task ownership checks, six integration tests, and CI.
+- [3D Rendering Engine](https://github.com/Tofuhsu/3D-Rendering-Engine): Custom **C++** OBJ/MTL parser and **OpenGL/GLSL** rendering with textures and lighting.
