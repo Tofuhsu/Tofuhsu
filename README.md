@@ -1,7 +1,7 @@
 # Hi, I'm Jeff 👋
 
 - 🎓 M.S. Computer Science @ USC, graduating May 2027
-- 🔌 Embedded & systems: co-built a wearable NIR biosensing device (Arduino Nano 33 BLE Sense, I2C sensor, BLE) behind an IEEE paper, and a real-time C++/OpenGL rendering engine from scratch
+- 🔌 Embedded & systems: co-built a portable NIR biosensing device (Arduino Nano 33 BLE Sense, I2C sensor, BLE) behind an IEEE paper, and a real-time C++/OpenGL rendering engine from scratch
 - 🤖 Also applied AI / ML engineering — retrieval fine-tuning, agents, and the evaluation harnesses around them
 - 🛠️ **C/C++**, **Python**, **C#/.NET**, **TypeScript**, backend + cloud
 - 🔍 I care about verifiable results — controlled comparisons, independent checks, honest negative results over cherry-picked numbers
