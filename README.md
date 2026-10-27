@@ -2,6 +2,8 @@
 
 - M.S. Computer Science @ USC, graduating May 2027
 - Embedded & systems: co-built a portable NIR biosensing device (Arduino Nano 33 BLE Sense, I2C sensor, BLE) behind an IEEE paper, and a real time C++/OpenGL rendering engine from scratch
+- IoT hackathon (USC IEEE HackIoT, team of 4): ran YOLO people counting on a Raspberry Pi 4 with teammates and sent the counts to Supabase, and built the AC setpoint simulator ([repo](https://github.com/1chooo/mjhh-usc-ieee-HackIoT))
+- AWS serverless: [CatalogBridge](https://github.com/Tofuhsu/catalogbridge), a CSV import service built with CDK, three Lambda event source mappings, SQS and DynamoDB, tested with live fault injection
 - Also applied AI / ML engineering — retrieval fine-tuning, agents, and the evaluation harnesses around them
 - **C/C++**, **Python**, **C#/.NET**, **TypeScript**, backend + cloud
 - I care about verifiable results — controlled comparisons, independent checks, honest negative results over cherry picked numbers
