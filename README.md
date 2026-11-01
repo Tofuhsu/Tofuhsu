@@ -1,10 +1,11 @@
 # Hi, I'm Jeff 👋
 
-- M.S. Computer Science @ USC, graduating May 2027
-- Embedded & systems: co-built a portable NIR biosensing device (Arduino Nano 33 BLE Sense, I2C sensor, BLE) behind an IEEE paper, and a real time C++/OpenGL rendering engine from scratch
-- IoT hackathon (USC IEEE HackIoT, team of 4): ran YOLO people counting on a Raspberry Pi 4 with teammates and sent the counts to Supabase, and built the AC setpoint simulator ([repo](https://github.com/1chooo/mjhh-usc-ieee-HackIoT))
-- AWS serverless: [CatalogBridge](https://github.com/Tofuhsu/catalogbridge), a CSV import service built with CDK, three Lambda event source mappings, SQS and DynamoDB, tested with live fault injection
-- AI / ML: retrieval fine-tuning, agents, evaluation
-- Coauthor, *IEEE Transactions on Human Machine Systems* (2026)
-- Looking for 2027 new grad roles in Embedded Systems Engineering / AI Engineering
-- Reach me: [LinkedIn](https://www.linkedin.com/in/hsuan-fu-hsu/) · [Portfolio](https://tofuhsu.github.io/) · [Email](mailto:hsuanfu0709@gmail.com)
+M.S. Computer Science @ USC (May 2027) · Embedded systems and AI engineering · Looking for 2027 new grad roles
+
+- **Embedded**: co-built a portable NIR sensing device (Arduino Nano 33 BLE Sense, I2C, BLE); paper accepted to *IEEE Transactions on Human-Machine Systems*
+- **IoT**: [USC IEEE HackIoT](https://github.com/1chooo/mjhh-usc-ieee-HackIoT) (team of 4): Raspberry Pi 4 people counting with YOLO at ~7 FPS, plus the AC setpoint simulator
+- **C++**: [3D Rendering Engine](https://github.com/Tofuhsu/3D-Rendering-Engine), OpenGL/GLSL with my own OBJ/MTL parser
+- **AWS**: [CatalogBridge](https://github.com/Tofuhsu/catalogbridge), CSV import on Lambda, SQS and DynamoDB; 9 live crash tests, 0 duplicate rows
+- **AI**: [SciFact RAG](https://github.com/Tofuhsu/scifact-rag), 6 setups on 300 claims (nDCG@10 0.645 → 0.695) · [hard-negative fine-tuning](https://github.com/Tofuhsu/sentence-transformers/pull/1) (+3.2% nDCG@10)
+
+[LinkedIn](https://www.linkedin.com/in/hsuan-fu-hsu/) · [Portfolio](https://tofuhsu.github.io/) · [Email](mailto:hsuanfu0709@gmail.com)
