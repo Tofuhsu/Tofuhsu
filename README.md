@@ -2,7 +2,7 @@
 
 M.S. Computer Science @ USC (May 2027) · Embedded systems and AI engineering · Looking for 2027 new grad roles
 
-- NIR uric acid sensing device (co-developed), paper accepted to *IEEE Transactions on Human-Machine Systems*
+- NIR uric acid sensing device (co-developed), [paper](https://doi.org/10.1109/THMS.2026.3724413) published in *IEEE Transactions on Human-Machine Systems*
 - [Classroom AC Control System](https://github.com/1chooo/mjhh-usc-ieee-HackIoT): Raspberry Pi 4 and YOLO people counting at ~7 FPS (USC IEEE HackIoT, team of 4)
 - [3D Rendering Engine](https://github.com/Tofuhsu/3D-Rendering-Engine): C++/OpenGL with PBR, shadows, and glTF loading
 - [CatalogBridge](https://github.com/Tofuhsu/catalogbridge): CSV import on AWS Lambda, SQS, and DynamoDB
