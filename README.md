@@ -2,6 +2,7 @@
 
 M.S. Computer Science @ USC (May 2027) · Embedded systems and AI engineering · Looking for 2027 new grad roles
 
+- [Cortex-M4 emulator](https://github.com/Tofuhsu/cortex-m-emu) in C that runs my [bare-metal STM32F446 firmware](https://github.com/Tofuhsu/stm32-baremetal-sensor-node) with no board; 33 of 35 test programs match Renode instruction by instruction
 - NIR uric acid sensing device (co-developed), [paper](https://doi.org/10.1109/THMS.2026.3724413) published in *IEEE Transactions on Human-Machine Systems*
 - [Classroom AC Control System](https://github.com/1chooo/mjhh-usc-ieee-HackIoT): Raspberry Pi 4 and YOLO people counting at ~7 FPS (USC IEEE HackIoT, team of 4)
 - [3D Rendering Engine](https://github.com/Tofuhsu/3D-Rendering-Engine): C++/OpenGL with PBR, shadows, and glTF loading
