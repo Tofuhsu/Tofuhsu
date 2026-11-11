@@ -1,6 +1,6 @@
 # Hi, I'm Jeff 👋
 
-M.S. Computer Science @ USC (May 2027) · Embedded systems and AI engineering · Looking for 2027 new grad roles
+I'm an M.S. Computer Science student at USC (May 2027) who likes working close to the hardware. I'm looking for 2027 new grad roles in embedded systems, with AI as my second interest.
 
 - [Cortex-M4 emulator](https://github.com/Tofuhsu/cortex-m-emu) in C that runs my [bare-metal STM32F446 firmware](https://github.com/Tofuhsu/stm32-baremetal-sensor-node) with no board; 33 of 35 test programs match Renode instruction by instruction
 - NIR uric acid sensing device (co-developed), [paper](https://doi.org/10.1109/THMS.2026.3724413) published in *IEEE Transactions on Human-Machine Systems*
