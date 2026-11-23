@@ -5,7 +5,7 @@ I'm an M.S. Computer Science student at USC (May 2027) who likes working close t
 - [Cortex-M4 emulator](https://github.com/Tofuhsu/cortex-m-emu) in C that runs my [bare-metal STM32F446 firmware](https://github.com/Tofuhsu/stm32-baremetal-sensor-node) with no board; 33 of 35 test programs match Renode instruction by instruction, and the same firmware runs on a NUCLEO-F446RE with a BME280 and an SSD1306 OLED
 - NIR uric acid sensing device (co-developed), [paper](https://doi.org/10.1109/THMS.2026.3724413) published in *IEEE Transactions on Human-Machine Systems*
 - [Classroom AC Control System](https://github.com/1chooo/mjhh-usc-ieee-HackIoT): Raspberry Pi 4 and YOLO people counting at ~7 FPS (USC IEEE HackIoT, team of 4)
-- [3D Rendering Engine](https://github.com/Tofuhsu/opengl-pbr-renderer): C++/OpenGL with PBR, shadows, and glTF loading
+- [OpenGL PBR Renderer](https://github.com/Tofuhsu/opengl-pbr-renderer): C++/OpenGL with PBR, shadows, and glTF loading
 - [CatalogBridge](https://github.com/Tofuhsu/catalogbridge): CSV import on AWS Lambda, SQS, and DynamoDB
 - [SciFact RAG](https://github.com/Tofuhsu/scifact-rag): a reranker raised nDCG@10 from 0.645 to 0.695
 - [Hard negative fine tuning](https://github.com/Tofuhsu/sentence-transformers/pull/1) of MiniLM: +3.2% nDCG@10 over random negatives
